@@ -1,0 +1,4015 @@
+gi[
+  {
+    "Unnamed: 0": 0,
+    "name": "Samosa Kitchen",
+    "rating(out of 5)": 4.0,
+    "rating_count": 219.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 1,
+    "name": "Margherito's Pizza",
+    "rating(out of 5)": 4.0,
+    "rating_count": 11.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 2,
+    "name": "Shawarma Time - Bhabara Market",
+    "rating(out of 5)": 2.2,
+    "rating_count": 4.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Super Discount",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 3,
+    "name": "Top Inn Pizza",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Fried Chicken",
+      "Snacks-Street Food",
+      "Thin Crust Pizza",
+      "Burgers",
+      "Pizza",
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 4,
+    "name": "#TheDeli",
+    "rating(out of 5)": 4.1,
+    "rating_count": 6.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "American"
+    ]
+  },
+  {
+    "Unnamed: 0": 5,
+    "name": "PAK ASIA FAST FOOD-Kadafi stadium",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 6,
+    "name": "Butter Crust - DHA",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pasta",
+      "Pizza",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 7,
+    "name": "Butter Crust",
+    "rating(out of 5)": 4.3,
+    "rating_count": 416.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 8,
+    "name": "Balochi Sajji by Bundu Khan",
+    "rating(out of 5)": 3.8,
+    "rating_count": 34.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "BBQ",
+      "Fast Food",
+      "Fish",
+      "Rice",
+      "Soup",
+      "Tandoor",
+      "Asian",
+      "Fast Food",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 9,
+    "name": "24 Wall Street Pizza",
+    "rating(out of 5)": 3.9,
+    "rating_count": 1349.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Meat",
+      "Super Discount",
+      "Sandwiches",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 10,
+    "name": "Bholli Juice & Dry Fruit",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream",
+      "Noodles",
+      "Pasta",
+      "Salad",
+      "Ice Cream Shakes",
+      "Juices",
+      "Desserts",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 11,
+    "name": "Salt N Pepper lahore",
+    "rating(out of 5)": 4.3,
+    "rating_count": 981.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Curry",
+      "Fast Food",
+      "Noodles",
+      "Rice",
+      "Salad",
+      "Soup",
+      "Chinese",
+      "Pakistani",
+      "Italian"
+    ]
+  },
+  {
+    "Unnamed: 0": 12,
+    "name": "Khala's Kitchen",
+    "rating(out of 5)": 4.5,
+    "rating_count": 71.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Fast Food",
+      "Pizza",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 13,
+    "name": "Basanti",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Rice",
+      "Karahi",
+      "Tandoor",
+      "Beverage",
+      "Desserts",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 14,
+    "name": "Lahori Biryani - Gulberg",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Rice",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 15,
+    "name": "Munch Cafe By Funco",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Beverage",
+      "Burgers",
+      "Sandwiches",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 16,
+    "name": "Sultan Basha",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Spicy",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 17,
+    "name": "Karachi Red Rock",
+    "rating(out of 5)": 3.7,
+    "rating_count": 3639.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Curry",
+      "Fast Food",
+      "Fish",
+      "Soup",
+      "Tandoor",
+      "Burgers",
+      "Chinese",
+      "Pizza",
+      "Sandwiches",
+      "Seafood",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 18,
+    "name": "Karachi Red Rock Juice Corner",
+    "rating(out of 5)": 1.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream Shakes",
+      "Juices",
+      "Lassi",
+      "Tea",
+      "Coffee",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 19,
+    "name": "Karachi Master Foods Paratha Roll & BBQ",
+    "rating(out of 5)": 3.5,
+    "rating_count": 53.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Fast Food",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 20,
+    "name": "Red Pepper Restaurant & BBQ",
+    "rating(out of 5)": 1.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Chicken",
+      "Namkeen",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 21,
+    "name": "Seriously Saucy",
+    "rating(out of 5)": 2.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Super Discount",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 22,
+    "name": "Nainu's Pizza",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Italian",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 23,
+    "name": "Aniyah's Cafe",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Tacos",
+      "Wraps",
+      "Tea",
+      "Coffee",
+      "Steaks",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Fast Food",
+      "Middle Eastern",
+      "Sandwiches",
+      "Cakes & Bakery"
+    ]
+  },
+  {
+    "Unnamed: 0": 24,
+    "name": "Karachi Golden BBQ & Paratha Roll",
+    "rating(out of 5)": 3.6,
+    "rating_count": 22.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 25,
+    "name": "Kings & Queens",
+    "rating(out of 5)": 3.3,
+    "rating_count": 20.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 26,
+    "name": "Domeno Hut",
+    "rating(out of 5)": 1.0,
+    "rating_count": 2.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Burgers",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 27,
+    "name": "Foodyz",
+    "rating(out of 5)": 4.0,
+    "rating_count": 19.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Steaks",
+      "Super Discount",
+      "Burgers",
+      "Pizza",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 28,
+    "name": "Paradise Restaurant",
+    "rating(out of 5)": 4.1,
+    "rating_count": 25.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Fast Food",
+      "Soup",
+      "Beverage",
+      "Chinese",
+      "Fast Food",
+      "Middle Eastern",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 29,
+    "name": "21 Pizza Bar",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 30,
+    "name": "Taoyuan Chinese",
+    "rating(out of 5)": 3.9,
+    "rating_count": 52.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Seafood",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 31,
+    "name": "Ambala Milk Shop - Gulberg",
+    "rating(out of 5)": 5.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream",
+      "Sweets",
+      "Desserts",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 32,
+    "name": "Cathay Kitchen by Hsin Kuang",
+    "rating(out of 5)": 3.6,
+    "rating_count": 3.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Thai"
+    ]
+  },
+  {
+    "Unnamed: 0": 33,
+    "name": "Hafiz Juice Corner",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 34,
+    "name": "Downtown China",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Chicken",
+      "Curry",
+      "Fast Food",
+      "Fish",
+      "Fried Chicken",
+      "Noodles",
+      "Rice",
+      "Snacks-Street Food",
+      "Soup",
+      "Spicy",
+      "Prawns",
+      "Chinese",
+      "Pakistani",
+      "Singaporean",
+      "Thai",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 35,
+    "name": "Manzoor Brothers Juice & Dry Fruits",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream",
+      "Wraps",
+      "Ice Cream Shakes",
+      "Juices",
+      "Desserts",
+      "Healthy",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 36,
+    "name": "The Hots pot",
+    "rating(out of 5)": 4.1,
+    "rating_count": 61.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 37,
+    "name": "The Frozen Zone",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Desserts"
+    ]
+  },
+  {
+    "Unnamed: 0": 38,
+    "name": "Pizza Hot Slice",
+    "rating(out of 5)": 3.3,
+    "rating_count": 8.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 39,
+    "name": "Hafiz Faisal Food Salad Bar",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Salad",
+      "American",
+      "Cakes & Bakery",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 40,
+    "name": "Gloria Jeans - Hali Road",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Tea",
+      "Cakes & Bakery",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 41,
+    "name": "Tree Lounge",
+    "rating(out of 5)": 3.3,
+    "rating_count": 23.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pasta",
+      "Soup",
+      "Steaks",
+      "Chinese",
+      "Pizza",
+      "Italian"
+    ]
+  },
+  {
+    "Unnamed: 0": 42,
+    "name": "Lebanese Corner",
+    "rating(out of 5)": 4.1,
+    "rating_count": 56.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Wraps",
+      "Paratha",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 43,
+    "name": "Five Star Cafe",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Curry",
+      "Rice",
+      "Spicy",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 44,
+    "name": "Sana's Food World",
+    "rating(out of 5)": 4.0,
+    "rating_count": 11.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 45,
+    "name": "Chick & Cheese",
+    "rating(out of 5)": 4.0,
+    "rating_count": 2.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Pizza",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 46,
+    "name": "X2",
+    "rating(out of 5)": 4.2,
+    "rating_count": 201.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Salad",
+      "Chicken",
+      "Soup",
+      "Noodles",
+      "Rice",
+      "Salad",
+      "Soup",
+      "Thai",
+      "Beverage",
+      "Vegetarian",
+      "Chinese",
+      "Desserts",
+      "Seafood",
+      "Thai",
+      "Vegetarian",
+      "Asian"
+    ]
+  },
+  {
+    "Unnamed: 0": 47,
+    "name": "The Spot",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Karahi",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 48,
+    "name": "The Coffee Lounge & La Patisserie",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Tea",
+      "Coffee",
+      "Beverage",
+      "Desserts",
+      "Pizza",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 49,
+    "name": "X2 Cafe",
+    "rating(out of 5)": 4.1,
+    "rating_count": 93.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Beverage",
+      "Burgers",
+      "Italian",
+      "Pizza",
+      "Sandwiches",
+      "Seafood",
+      "International"
+    ]
+  },
+  {
+    "Unnamed: 0": 50,
+    "name": "Novu Pan",
+    "rating(out of 5)": 4.1,
+    "rating_count": 20.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Chinese",
+      "Fast Food",
+      "Thai"
+    ]
+  },
+  {
+    "Unnamed: 0": 51,
+    "name": "Cp Five Star Chicken",
+    "rating(out of 5)": 4.2,
+    "rating_count": 440.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Super Discount",
+      "Burgers",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 52,
+    "name": "California Pizza",
+    "rating(out of 5)": 4.3,
+    "rating_count": 448.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 53,
+    "name": "The Burning Giraffe",
+    "rating(out of 5)": 5.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream",
+      "Salad",
+      "Juices",
+      "Tea",
+      "Coffee",
+      "Beverage",
+      "Desserts",
+      "Fast Food",
+      "Pizza",
+      "Seafood",
+      "Western"
+    ]
+  },
+  {
+    "Unnamed: 0": 54,
+    "name": "Cafe Beirut",
+    "rating(out of 5)": 4.1,
+    "rating_count": 23.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Lebanese"
+    ]
+  },
+  {
+    "Unnamed: 0": 55,
+    "name": "The Wok",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 56,
+    "name": "The Brasserie",
+    "rating(out of 5)": 4.0,
+    "rating_count": 13.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pizza",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 57,
+    "name": "Espresso",
+    "rating(out of 5)": 4.3,
+    "rating_count": 548.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Fast Food",
+      "Pasta",
+      "Salad",
+      "Wraps",
+      "Burgers",
+      "Desserts",
+      "Italian",
+      "Mexican",
+      "Sandwiches",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 58,
+    "name": "Eataly Ristorante",
+    "rating(out of 5)": 3.8,
+    "rating_count": 24.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Italian"
+    ]
+  },
+  {
+    "Unnamed: 0": 59,
+    "name": "The Delicatessen By Cosa Nostra",
+    "rating(out of 5)": 4.3,
+    "rating_count": 8.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Salad",
+      "Soup",
+      "Beverage",
+      "Pizza",
+      "Cakes & Bakery"
+    ]
+  },
+  {
+    "Unnamed: 0": 60,
+    "name": "Butlers Chocolate Cafe",
+    "rating(out of 5)": 4.1,
+    "rating_count": 1282.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Meat",
+      "Beverage",
+      "Pizza",
+      "Desserts"
+    ]
+  },
+  {
+    "Unnamed: 0": 61,
+    "name": "second cup",
+    "rating(out of 5)": 4.0,
+    "rating_count": 119.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Desserts",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 62,
+    "name": "Cafe Anokhi",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fried Chicken",
+      "Smoothie Bowl",
+      "Ice Cream Shakes",
+      "Juices",
+      "Tea",
+      "Coffee",
+      "Burgers",
+      "Middle Eastern",
+      "Pakistani",
+      "Pizza",
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 63,
+    "name": "Al Madina Naan Hut",
+    "rating(out of 5)": 3.8,
+    "rating_count": 32.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 64,
+    "name": "Mocca",
+    "rating(out of 5)": 4.0,
+    "rating_count": 76.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Salad",
+      "Waffle",
+      "Super Discount",
+      "Beverage",
+      "Desserts",
+      "Sandwiches",
+      "International"
+    ]
+  },
+  {
+    "Unnamed: 0": 65,
+    "name": "Rice Bowl",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": " ",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 66,
+    "name": "broadway test",
+    "rating(out of 5)": 4.2,
+    "rating_count": 673.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Pizza",
+      "Italian"
+    ]
+  },
+  {
+    "Unnamed: 0": 67,
+    "name": "Ice Land - Gulberg",
+    "rating(out of 5)": 5.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream Shakes",
+      "Juices",
+      "Desserts",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 68,
+    "name": "Rizwan Biryani",
+    "rating(out of 5)": 4.2,
+    "rating_count": 368.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 69,
+    "name": "Rizwan Burger",
+    "rating(out of 5)": 4.1,
+    "rating_count": 1799.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 70,
+    "name": "The Urban Cafe Yogolicious",
+    "rating(out of 5)": 4.2,
+    "rating_count": 31.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Pizza",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 71,
+    "name": "Vip Sabir Daal Chawal & Chicken Biryani",
+    "rating(out of 5)": 4.2,
+    "rating_count": 360.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 72,
+    "name": "Jalal Sons",
+    "rating(out of 5)": 4.3,
+    "rating_count": 343.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pizza",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 73,
+    "name": "Sashas",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Cupcakes",
+      "Ice Cream",
+      "Pancakes",
+      "Sweets",
+      "Waffle",
+      "Ice Cream Shakes",
+      "Tandoor",
+      "Beverage",
+      "Desserts",
+      "Sandwiches",
+      "International"
+    ]
+  },
+  {
+    "Unnamed: 0": 74,
+    "name": "Burger Hub",
+    "rating(out of 5)": 4.2,
+    "rating_count": 329.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Burgers"
+    ]
+  },
+  {
+    "Unnamed: 0": 75,
+    "name": "Rawayat - Bon Vivant",
+    "rating(out of 5)": 4.2,
+    "rating_count": 5.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Meat",
+      "Rice",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 76,
+    "name": "Bon Vivant Palais",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Meat",
+      "Rice",
+      "American"
+    ]
+  },
+  {
+    "Unnamed: 0": 77,
+    "name": "OX & Grill Steak House",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Salad",
+      "Soup",
+      "Steaks",
+      "Beverage",
+      "Burgers",
+      "Chinese",
+      "Sandwiches",
+      "American"
+    ]
+  },
+  {
+    "Unnamed: 0": 78,
+    "name": "Cafe Barbera",
+    "rating(out of 5)": 4.0,
+    "rating_count": 223.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Chicken",
+      "Meat",
+      "Beverage",
+      "Italian",
+      "Pizza",
+      "Cakes & Bakery"
+    ]
+  },
+  {
+    "Unnamed: 0": 79,
+    "name": "OPTP",
+    "rating(out of 5)": 4.0,
+    "rating_count": 2562.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Fish",
+      "Snacks-Street Food",
+      "Hot dogs",
+      "Super Discount",
+      "Beverage",
+      "Burgers",
+      "Sandwiches",
+      "Seafood",
+      "Western",
+      "American"
+    ]
+  },
+  {
+    "Unnamed: 0": 80,
+    "name": "New Beijing",
+    "rating(out of 5)": 3.8,
+    "rating_count": 316.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Chicken",
+      "Fish",
+      "Meat",
+      "Soup",
+      "Seafood",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 81,
+    "name": "Hardees",
+    "rating(out of 5)": 4.1,
+    "rating_count": 1591.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fish",
+      "Meat",
+      "Wraps",
+      "Super Discount",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Sandwiches",
+      "Seafood",
+      "American"
+    ]
+  },
+  {
+    "Unnamed: 0": 82,
+    "name": "Zaiqa Lounge",
+    "rating(out of 5)": 4.5,
+    "rating_count": 2.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Roll Paratha",
+      "Fast Food",
+      "Seafood",
+      "Vegetarian",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 83,
+    "name": "The Cutlery",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": " ",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 84,
+    "name": "What A Paratha",
+    "rating(out of 5)": 4.7,
+    "rating_count": 7.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Chicken",
+      "Meat",
+      "Wraps",
+      "Tandoor",
+      "Desserts",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 85,
+    "name": "McDonalds",
+    "rating(out of 5)": 4.2,
+    "rating_count": 2083.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Fast Food",
+      "Fish",
+      "Fried Chicken",
+      "Ice Cream",
+      "Pancakes",
+      "Wraps",
+      "Super Discount",
+      "American",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 86,
+    "name": "Karachi Kanteen - Gulberg",
+    "rating(out of 5)": 4.0,
+    "rating_count": 143.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 87,
+    "name": "Masooms Coffee & Bake Shop",
+    "rating(out of 5)": 3.8,
+    "rating_count": 140.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Crepes",
+      "Pancakes",
+      "Salad",
+      "Soup",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Sandwiches",
+      "Thai",
+      "American"
+    ]
+  },
+  {
+    "Unnamed: 0": 88,
+    "name": "Supper House",
+    "rating(out of 5)": 3.8,
+    "rating_count": 96.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Thai",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 89,
+    "name": "Nisa Sultan",
+    "rating(out of 5)": 4.0,
+    "rating_count": 123.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Turkish"
+    ]
+  },
+  {
+    "Unnamed: 0": 90,
+    "name": "English Tea House",
+    "rating(out of 5)": 4.1,
+    "rating_count": 23.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 91,
+    "name": "Jessie's",
+    "rating(out of 5)": 4.0,
+    "rating_count": 73.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 92,
+    "name": "Sweet Affairs",
+    "rating(out of 5)": 3.8,
+    "rating_count": 120.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Noodles",
+      "Rice",
+      "Salad",
+      "Burgers",
+      "Chinese",
+      "Sandwiches",
+      "Seafood",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 93,
+    "name": "Kings Kulfi",
+    "rating(out of 5)": 2.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream",
+      "Super Discount",
+      "Desserts"
+    ]
+  },
+  {
+    "Unnamed: 0": 94,
+    "name": "Chit Chaat - Gulberg",
+    "rating(out of 5)": 4.2,
+    "rating_count": 221.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 95,
+    "name": "Qabail",
+    "rating(out of 5)": 3.0,
+    "rating_count": 14.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 96,
+    "name": "Changsho",
+    "rating(out of 5)": 3.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 97,
+    "name": "Cinnabon",
+    "rating(out of 5)": 4.2,
+    "rating_count": 777.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Meat",
+      "Super Discount",
+      "Sandwiches"
+    ]
+  },
+  {
+    "Unnamed: 0": 98,
+    "name": "Kitchen Cuisine - Lahore",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Cupcakes",
+      "Ice Cream",
+      "Sweets",
+      "Chicken",
+      "Desserts",
+      "Sandwiches",
+      "Pizza",
+      "Cakes & Bakery"
+    ]
+  },
+  {
+    "Unnamed: 0": 99,
+    "name": "Cafe Solasta",
+    "rating(out of 5)": 3.4,
+    "rating_count": 9.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Pizza",
+      "Seafood",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 100,
+    "name": "Bagh - The Desi Experience",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Curry",
+      "Ice Cream Shakes",
+      "Juices",
+      "Paratha",
+      "Karahi",
+      "Tea",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 101,
+    "name": "Uncle Tetsu - てつおじさん",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Beverage",
+      "Desserts",
+      "Healthy",
+      "Japanese",
+      "Cakes & Bakery"
+    ]
+  },
+  {
+    "Unnamed: 0": 102,
+    "name": "Subway - Central",
+    "rating(out of 5)": 3.8,
+    "rating_count": 599.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Meat",
+      "Salad",
+      "Super Discount",
+      "American",
+      "Healthy",
+      "Sandwiches",
+      "Vegetarian",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 103,
+    "name": "Howdy - Lahore",
+    "rating(out of 5)": 4.3,
+    "rating_count": 916.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Chicken",
+      "Meat",
+      "Steaks",
+      "Super Discount",
+      "Beverage",
+      "Asian"
+    ]
+  },
+  {
+    "Unnamed: 0": 104,
+    "name": "Grab Your Meal",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": []
+  },
+  {
+    "Unnamed: 0": 105,
+    "name": "Moocs",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pasta",
+      "Salad",
+      "Soup",
+      "Steaks",
+      "Asian",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Pizza",
+      "Sandwiches",
+      "European"
+    ]
+  },
+  {
+    "Unnamed: 0": 106,
+    "name": "Mozzarella 27",
+    "rating(out of 5)": 4.1,
+    "rating_count": 39.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Beverage",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 107,
+    "name": "Cafe Aylanto",
+    "rating(out of 5)": 4.0,
+    "rating_count": 89.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Fast Food",
+      "Meat",
+      "Beverage",
+      "Burgers",
+      "American"
+    ]
+  },
+  {
+    "Unnamed: 0": 108,
+    "name": "Frozi",
+    "rating(out of 5)": 4.0,
+    "rating_count": 2.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream",
+      "Super Discount",
+      "Desserts"
+    ]
+  },
+  {
+    "Unnamed: 0": 109,
+    "name": "Dessert Desire",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Burgers",
+      "Pizza",
+      "Desserts"
+    ]
+  },
+  {
+    "Unnamed: 0": 110,
+    "name": "Ice Curl - Giga Mall",
+    "rating(out of 5)": 4.6,
+    "rating_count": 5.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Desserts"
+    ]
+  },
+  {
+    "Unnamed: 0": 111,
+    "name": "Liu's Kim Mun Chinese by Hsin Kuang",
+    "rating(out of 5)": 4.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fish",
+      "Rice",
+      "Soup",
+      "Beverage",
+      "Seafood",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 112,
+    "name": "The Kitchen - Bistro . Boulangerie . Patisserie",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Italian",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 113,
+    "name": "Submarine",
+    "rating(out of 5)": 3.8,
+    "rating_count": 50.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Healthy",
+      "Vegetarian",
+      "Sandwiches"
+    ]
+  },
+  {
+    "Unnamed: 0": 114,
+    "name": "Pizza City - Gulberg 3",
+    "rating(out of 5)": 3.8,
+    "rating_count": 115.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Meat",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 115,
+    "name": "Meer Sweets & Bakers - Peoples Colony",
+    "rating(out of 5)": 4.3,
+    "rating_count": 37.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Fast Food",
+      "Sandwiches",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 116,
+    "name": "Tuscany - Gulberg 2",
+    "rating(out of 5)": 3.9,
+    "rating_count": 77.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chinese",
+      "Desserts",
+      "Italian",
+      "Sandwiches",
+      "Seafood",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 117,
+    "name": "Wasabi",
+    "rating(out of 5)": 4.5,
+    "rating_count": 2.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Pakistani",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 118,
+    "name": "Antique Cafe",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Noodles",
+      "Pasta",
+      "Soup",
+      "Tea",
+      "Steaks",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Pizza",
+      "Seafood",
+      "American"
+    ]
+  },
+  {
+    "Unnamed: 0": 119,
+    "name": "nando",
+    "rating(out of 5)": 4.2,
+    "rating_count": 852.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Chicken",
+      "Meat",
+      "Rice",
+      "Salad",
+      "Spicy",
+      "Afro-Portuguese",
+      "Burgers",
+      "Desserts",
+      "International"
+    ]
+  },
+  {
+    "Unnamed: 0": 120,
+    "name": "The Coffee Shop by Wasabi - Gulberg",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Burgers",
+      "Chinese",
+      "Vietnamese",
+      "Seafood"
+    ]
+  },
+  {
+    "Unnamed: 0": 121,
+    "name": "Burger Corner",
+    "rating(out of 5)": 3.5,
+    "rating_count": 62.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 122,
+    "name": "Clifton Grill",
+    "rating(out of 5)": 4.1,
+    "rating_count": 10.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Fast Food",
+      "Karahi",
+      "Tandoor",
+      "Super Discount",
+      "Burgers",
+      "Chinese",
+      "Fast Food",
+      "Italian",
+      "Pizza",
+      "Sandwiches",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 123,
+    "name": "Sweet Tooth",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Fried Chicken",
+      "Snacks-Street Food",
+      "Sweets",
+      "Waffle",
+      "Ice Cream Shakes",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Fast Food",
+      "Sandwiches",
+      "Cakes & Bakery"
+    ]
+  },
+  {
+    "Unnamed: 0": 124,
+    "name": "Burns Road House",
+    "rating(out of 5)": 5.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 125,
+    "name": "bar B Q tonight",
+    "rating(out of 5)": 4.3,
+    "rating_count": 474.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 126,
+    "name": "Fa La La",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Pasta",
+      "Coffee",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 127,
+    "name": "Rina",
+    "rating(out of 5)": 4.4,
+    "rating_count": 584.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Desserts",
+      "European"
+    ]
+  },
+  {
+    "Unnamed: 0": 128,
+    "name": "The Coffee Bean & Tea Leaf - Packages Mall",
+    "rating(out of 5)": 4.1,
+    "rating_count": 18.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Chicken",
+      "Crepes",
+      "Pasta",
+      "Salad",
+      "Wraps",
+      "Roll Paratha",
+      "Italian",
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 129,
+    "name": "Alaska Desserts & Pastry",
+    "rating(out of 5)": 3.6,
+    "rating_count": 36.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Cakes & Bakery",
+      "Pizza",
+      "Sandwiches",
+      "Desserts"
+    ]
+  },
+  {
+    "Unnamed: 0": 130,
+    "name": "Urban Kitchen",
+    "rating(out of 5)": 3.9,
+    "rating_count": 42.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Meat",
+      "Soup",
+      "Ice Cream Shakes",
+      "Tea",
+      "Coffee",
+      "Beverage",
+      "Desserts",
+      "Seafood",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 131,
+    "name": "Scafe Express",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pasta",
+      "Soup",
+      "American",
+      "Beverage",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 132,
+    "name": "2000 Bites",
+    "rating(out of 5)": 1.5,
+    "rating_count": 8.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Burgers",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 133,
+    "name": "Jade Cafes",
+    "rating(out of 5)": 3.9,
+    "rating_count": 107.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Burgers",
+      "Italian",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 134,
+    "name": "Nadeem Tikka",
+    "rating(out of 5)": 4.0,
+    "rating_count": 855.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Tandoor",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 135,
+    "name": "Cosa Nostra - Gulberg",
+    "rating(out of 5)": 3.7,
+    "rating_count": 7.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Italian"
+    ]
+  },
+  {
+    "Unnamed: 0": 136,
+    "name": "BM Fast Food",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Chicken",
+      "Fast Food",
+      "Snacks-Street Food",
+      "Tacos",
+      "Wraps",
+      "Arabic",
+      "Thin Crust Pizza",
+      "Burgers",
+      "Pizza",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 137,
+    "name": "Chashni - Model Town",
+    "rating(out of 5)": 4.4,
+    "rating_count": 10.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Desserts",
+      "Cakes & Bakery"
+    ]
+  },
+  {
+    "Unnamed: 0": 138,
+    "name": "Sichuan",
+    "rating(out of 5)": 4.1,
+    "rating_count": 212.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fish",
+      "Ice Cream",
+      "Meat",
+      "Rice",
+      "Soup",
+      "Beverage",
+      "Thai",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 139,
+    "name": "Rafay Chicken Biryani",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Rice",
+      "Spicy",
+      "Super Discount",
+      "Beverage",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 140,
+    "name": "Gun Smoke",
+    "rating(out of 5)": 3.9,
+    "rating_count": 120.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Steaks",
+      "Beverage",
+      "Desserts",
+      "Seafood",
+      "Burgers"
+    ]
+  },
+  {
+    "Unnamed: 0": 141,
+    "name": "Snacks City",
+    "rating(out of 5)": 4.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 142,
+    "name": "Wazwan",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Rice",
+      "Karahi",
+      "Beverage",
+      "Desserts",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 143,
+    "name": "Decent Fast Food",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fried Chicken",
+      "Ice Cream Shakes",
+      "Juices",
+      "Beverage",
+      "Burgers",
+      "Pizza",
+      "Sandwiches",
+      "Seafood",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 144,
+    "name": "Delicious Fast Food & Juice Bar",
+    "rating(out of 5)": 4.3,
+    "rating_count": 3.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Beverage",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 145,
+    "name": "Wild Wings - Gulberg",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Italian"
+    ]
+  },
+  {
+    "Unnamed: 0": 146,
+    "name": "Virsa Biryani Spice",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Middle Eastern",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 147,
+    "name": "Cakes and Bakes",
+    "rating(out of 5)": 3.9,
+    "rating_count": 21.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Chicken",
+      "Ice Cream",
+      "Snacks-Street Food",
+      "Sweets",
+      "Super Discount",
+      "Beverage",
+      "Pizza",
+      "Sandwiches",
+      "Cakes & Bakery"
+    ]
+  },
+  {
+    "Unnamed: 0": 148,
+    "name": "KFC",
+    "rating(out of 5)": 4.3,
+    "rating_count": 2466.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Fried Chicken",
+      "Rice",
+      "Wraps",
+      "American",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 149,
+    "name": "Haji Sardar Machli Farosh",
+    "rating(out of 5)": 3.6,
+    "rating_count": 106.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 150,
+    "name": "Shawarma Time - Shama",
+    "rating(out of 5)": 1.0,
+    "rating_count": 2.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 151,
+    "name": "Kashaf's Kitchen",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Snacks-Street Food",
+      "Tacos",
+      "Wraps",
+      "Burgers",
+      "Middle Eastern",
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 152,
+    "name": "Ahmad Dhai Bhala",
+    "rating(out of 5)": 4.1,
+    "rating_count": 41.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Wraps",
+      "Super Discount",
+      "Beverage",
+      "Burgers",
+      "Pakistani",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 153,
+    "name": "Pizza Channel",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 154,
+    "name": "Food Door",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Fast Food",
+      "Soup",
+      "Salad",
+      "Rice",
+      "Noodles",
+      "Pasta",
+      "Chinese",
+      "Burgers",
+      "Italian",
+      "Italian"
+    ]
+  },
+  {
+    "Unnamed: 0": 155,
+    "name": "Colorado Pizza",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Pizza",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 156,
+    "name": "Pizza Heart",
+    "rating(out of 5)": 4.2,
+    "rating_count": 59.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 157,
+    "name": "Kartwisters",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Fried Chicken",
+      "Snacks-Street Food",
+      "Tacos",
+      "Wraps",
+      "Burgers",
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 158,
+    "name": "Pizza City- Cavalary Ground",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 159,
+    "name": "Ice Lane",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream",
+      "Snacks-Street Food",
+      "Sweets",
+      "Pakora",
+      "Ice Cream Shakes",
+      "Juices",
+      "Namkeen",
+      "Desserts",
+      "Pakistani",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 160,
+    "name": "Madina Restaurant",
+    "rating(out of 5)": 3.9,
+    "rating_count": 84.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Chicken",
+      "Curry",
+      "Fish",
+      "Meat",
+      "Rice",
+      "Halwa",
+      "Karahi",
+      "Tandoor",
+      "Beverage",
+      "Desserts",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 161,
+    "name": "THE CHICKS-Fortress",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": " ",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Fried Chicken",
+      "Salad",
+      "Beverage",
+      "Burgers",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 162,
+    "name": "Second Cup Coffee & Company - DHA Z Block",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Salad",
+      "Wraps",
+      "Coffee",
+      "Desserts",
+      "Sandwiches",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 163,
+    "name": "Sweet Moments - Fortress Square Mall",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Waffle",
+      "Beverage",
+      "Sandwiches"
+    ]
+  },
+  {
+    "Unnamed: 0": 164,
+    "name": "What a Paratha - Fortress Stadium",
+    "rating(out of 5)": 4.1,
+    "rating_count": 1617.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Chicken",
+      "Meat",
+      "Wraps",
+      "Tandoor",
+      "Desserts",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 165,
+    "name": "Gourmet Restaurant 2",
+    "rating(out of 5)": 4.1,
+    "rating_count": 111.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Burgers",
+      "Cakes & Bakery",
+      "Pakistani",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 166,
+    "name": "Burger Lab - Test",
+    "rating(out of 5)": 4.0,
+    "rating_count": 1555.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Meat",
+      "Super Discount",
+      "Beverage",
+      "Burgers"
+    ]
+  },
+  {
+    "Unnamed: 0": 167,
+    "name": "Cock N Bull",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Chinese",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 168,
+    "name": "Domino's",
+    "rating(out of 5)": 4.1,
+    "rating_count": 526.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Beverage",
+      "Pizza",
+      "Italian"
+    ]
+  },
+  {
+    "Unnamed: 0": 169,
+    "name": "Bombay Chowpatty - Fortress Square Mall",
+    "rating(out of 5)": 2.7,
+    "rating_count": 51.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chinese",
+      "Fast Food",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 170,
+    "name": "Papa John's",
+    "rating(out of 5)": 4.4,
+    "rating_count": 214.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Salad",
+      "Thin Crust Pizza",
+      "Italian"
+    ]
+  },
+  {
+    "Unnamed: 0": 171,
+    "name": "Cheen Chutney Aur Chai",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Curry",
+      "Fish",
+      "Fried Chicken",
+      "Rice",
+      "Wraps",
+      "Paratha",
+      "Karahi",
+      "Tea",
+      "Roll Paratha",
+      "Beverage",
+      "Burgers",
+      "Chinese",
+      "Pakistani",
+      "Pizza",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 172,
+    "name": "Juice Island - Lahore",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Sweets",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 173,
+    "name": "Gloria Jean's Coffees",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Cupcakes",
+      "Ice Cream Shakes",
+      "Tea",
+      "Coffee",
+      "Beverage",
+      "Sandwiches",
+      "Cakes & Bakery"
+    ]
+  },
+  {
+    "Unnamed: 0": 174,
+    "name": "Balochi Sajji By Bundu Khan - Fortress Stadium",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "BBQ",
+      "Chicken",
+      "Soup",
+      "Broast",
+      "Paratha",
+      "Karahi",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Fast Food",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 175,
+    "name": "Mandarin Kitchen",
+    "rating(out of 5)": 4.4,
+    "rating_count": 64.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Curry",
+      "Fried Chicken",
+      "Salad",
+      "Prawns",
+      "Seafood",
+      "Thai",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 176,
+    "name": "Swadi Rasoi",
+    "rating(out of 5)": 4.4,
+    "rating_count": 5.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 177,
+    "name": "BAR-B-QUE Garden",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 178,
+    "name": "The Big Mouth",
+    "rating(out of 5)": 2.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Super Discount",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 179,
+    "name": "EEDEN RESTAURANT",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream",
+      "Soup",
+      "Wraps",
+      "Juices",
+      "Tea",
+      "Coffee",
+      "Roll Paratha",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 180,
+    "name": "Lahori Sweets - Fortress Stadium",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Desserts"
+    ]
+  },
+  {
+    "Unnamed: 0": 181,
+    "name": "Bundu Khan Restaurant",
+    "rating(out of 5)": 4.3,
+    "rating_count": 49.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "BBQ",
+      "Fast Food",
+      "Fish",
+      "Rice",
+      "Soup",
+      "Tandoor",
+      "Asian",
+      "Fast Food",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 182,
+    "name": "JAIDI Restaurant BIRYANI",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Rice",
+      "Beverage",
+      "Desserts",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 183,
+    "name": "JAIDI Restaurant-Juices & Ice Cream",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream",
+      "Salad",
+      "Ice Cream Shakes",
+      "Juices",
+      "Tea",
+      "Coffee",
+      "Desserts",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 184,
+    "name": "JAIDI Restaurant-Fast Food & Chinese",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Chicken",
+      "Fast Food",
+      "Paratha",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 185,
+    "name": "Lazat Kadah",
+    "rating(out of 5)": 3.5,
+    "rating_count": 6.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 186,
+    "name": "Nawab Biryani",
+    "rating(out of 5)": 4.1,
+    "rating_count": 55.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Rice",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 187,
+    "name": "Mayari Zaika",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Fried Chicken",
+      "Burgers",
+      "Sandwiches",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 188,
+    "name": "SALTZ-Dha",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fried Chicken",
+      "Soup",
+      "Ice Cream Shakes",
+      "Juices",
+      "Beverage",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 189,
+    "name": "Haleem Kinara",
+    "rating(out of 5)": 4.5,
+    "rating_count": 38.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 190,
+    "name": "Chopsticks",
+    "rating(out of 5)": 3.2,
+    "rating_count": 8.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 191,
+    "name": "Ghar Ka Khana",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fried Chicken",
+      "Pasta",
+      "Super Discount",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 192,
+    "name": "Primo Pizzeria",
+    "rating(out of 5)": 3.5,
+    "rating_count": 30.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 193,
+    "name": "La Casa",
+    "rating(out of 5)": 4.2,
+    "rating_count": 4.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Beverage",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 194,
+    "name": "Eastwood LA - Bar BQ Today",
+    "rating(out of 5)": 3.9,
+    "rating_count": 12.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chinese",
+      "Fast Food",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 195,
+    "name": "Pizza hut",
+    "rating(out of 5)": 4.1,
+    "rating_count": 1213.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Chicken",
+      "Meat",
+      "Salad",
+      "Soup",
+      "Super Discount",
+      "Desserts",
+      "Sandwiches",
+      "Vegetarian",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 196,
+    "name": "Paneera Express",
+    "rating(out of 5)": 3.5,
+    "rating_count": 59.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pasta",
+      "Salad",
+      "Paratha",
+      "Steaks",
+      "Roll Paratha",
+      "Beverage",
+      "Chinese",
+      "Desserts",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 197,
+    "name": "Guilty Pleasures",
+    "rating(out of 5)": 2.0,
+    "rating_count": 6.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Desserts",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 198,
+    "name": "Burger King",
+    "rating(out of 5)": 4.4,
+    "rating_count": 26.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Super Discount",
+      "American",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Sandwiches",
+      "Seafood",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 199,
+    "name": "Food Spot - PAF Market",
+    "rating(out of 5)": 3.2,
+    "rating_count": 22.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 200,
+    "name": "Haji Hotel",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 201,
+    "name": "Usman Restaurant",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 202,
+    "name": "Spice Kraft",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Karahi",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 203,
+    "name": "Lahore Chatkhara - DHA Phase 1",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Fast Food",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 204,
+    "name": "Star Gyro",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 205,
+    "name": "Lahori Spicy Biryani",
+    "rating(out of 5)": 4.1,
+    "rating_count": 11.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Rice",
+      "Super Discount",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 206,
+    "name": "Bony's Wok",
+    "rating(out of 5)": 5.0,
+    "rating_count": 2.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Japanese",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 207,
+    "name": "Tandoor Restaurant",
+    "rating(out of 5)": 5.0,
+    "rating_count": 2.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "BBQ",
+      "Karahi",
+      "Tandoor",
+      "Beverage",
+      "Burgers",
+      "Chinese",
+      "Sandwiches",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 208,
+    "name": "The Chinese Express - Dha",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fried Chicken",
+      "Rice",
+      "Beverage",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 209,
+    "name": "Royal Kulfi - DHA",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Desserts"
+    ]
+  },
+  {
+    "Unnamed: 0": 210,
+    "name": "Pizza Time",
+    "rating(out of 5)": 3.6,
+    "rating_count": 215.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 211,
+    "name": "A Dar Ul Mahi",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Fish",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 212,
+    "name": "Al-Minal",
+    "rating(out of 5)": 4.0,
+    "rating_count": 149.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Chicken",
+      "Fish",
+      "Ice Cream",
+      "Meat",
+      "Beverage",
+      "Chinese",
+      "Desserts",
+      "Pakistani",
+      "Pizza",
+      "Seafood",
+      "Middle Eastern"
+    ]
+  },
+  {
+    "Unnamed: 0": 213,
+    "name": "A. Butt Karahi",
+    "rating(out of 5)": 3.8,
+    "rating_count": 47.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Karahi",
+      "Tandoor",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 214,
+    "name": "A - China Town",
+    "rating(out of 5)": 3.9,
+    "rating_count": 161.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 215,
+    "name": "Foodie Express",
+    "rating(out of 5)": 3.8,
+    "rating_count": 715.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fast Food",
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 216,
+    "name": "Karachi Hot & Pepper",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Burgers",
+      "Chinese",
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 217,
+    "name": "Speedy Boys Kitchen",
+    "rating(out of 5)": 4.4,
+    "rating_count": 5.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Asian",
+      "Fast Food",
+      "Italian",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 218,
+    "name": "Bake Mania",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Cakes & Bakery",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 219,
+    "name": "Chilliate",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Finger Foods",
+      "Wraps",
+      "Mexican"
+    ]
+  },
+  {
+    "Unnamed: 0": 220,
+    "name": "Food Fashion",
+    "rating(out of 5)": 4.1,
+    "rating_count": 6.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Italian",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 221,
+    "name": "Burger District by Kings & Queens",
+    "rating(out of 5)": 3.4,
+    "rating_count": 33.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 222,
+    "name": "Karachi Hot N Spicy - DHA",
+    "rating(out of 5)": 4.0,
+    "rating_count": 27.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Fast Food",
+      "Salad",
+      "Soup",
+      "Burgers",
+      "Chinese",
+      "Pizza",
+      "Sandwiches",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 223,
+    "name": "Jimmy's",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 224,
+    "name": "Delhi Nihari House",
+    "rating(out of 5)": 3.2,
+    "rating_count": 31.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 225,
+    "name": "Al-Beirut Lebanese Cuisine Lahore- DHA",
+    "rating(out of 5)": 4.1,
+    "rating_count": 557.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Fish",
+      "Salad",
+      "Desserts",
+      "Lebanese",
+      "Sandwiches",
+      "Seafood",
+      "Middle Eastern"
+    ]
+  },
+  {
+    "Unnamed: 0": 226,
+    "name": "Aslam Dahi Bhalay",
+    "rating(out of 5)": 3.9,
+    "rating_count": 168.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream",
+      "Wraps",
+      "Ice Cream Shakes",
+      "Juices",
+      "Coffee",
+      "Burgers",
+      "Fast Food",
+      "International",
+      "Sandwiches",
+      "Beverage"
+    ]
+  },
+  {
+    "Unnamed: 0": 227,
+    "name": "Chalky",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Spicy",
+      "Turkish"
+    ]
+  },
+  {
+    "Unnamed: 0": 228,
+    "name": "Krem",
+    "rating(out of 5)": 3.4,
+    "rating_count": 13.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Ice Cream",
+      "Ice Cream Shakes",
+      "Beverage",
+      "Desserts"
+    ]
+  },
+  {
+    "Unnamed: 0": 229,
+    "name": "Defence Dhaba - Barkat Market",
+    "rating(out of 5)": 3.2,
+    "rating_count": 9.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Seafood",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 230,
+    "name": "Tandoori Chaye Company",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Finger Foods",
+      "Ice Cream Shakes",
+      "Paratha",
+      "Tea",
+      "Coffee",
+      "Beverage",
+      "Burgers",
+      "Desserts",
+      "Sandwiches",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 231,
+    "name": "Nainu's Pizza - Dha",
+    "rating(out of 5)": 3.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Italian",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 232,
+    "name": "Bread & Beyond",
+    "rating(out of 5)": 3.8,
+    "rating_count": 97.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pizza",
+      "Sandwiches"
+    ]
+  },
+  {
+    "Unnamed: 0": 233,
+    "name": "La Downtown - DHA",
+    "rating(out of 5)": 4.1,
+    "rating_count": 686.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Burgers",
+      "Chinese",
+      "Italian",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 234,
+    "name": "Karachi Kanteen - DHA",
+    "rating(out of 5)": 3.9,
+    "rating_count": 56.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Rice",
+      "Roll Paratha",
+      "Super Discount",
+      "Asian",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 235,
+    "name": "Taoyuan Chinese - DHA",
+    "rating(out of 5)": 4.1,
+    "rating_count": 48.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chinese"
+    ]
+  },
+  {
+    "Unnamed: 0": 236,
+    "name": "Pizza & Steaks - DHA & Bahria",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": NaN,
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Meat",
+      "Italian",
+      "Vegetarian",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 237,
+    "name": "Pizza & Steak - DHA",
+    "rating(out of 5)": 3.7,
+    "rating_count": 2183.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Meat",
+      "Italian",
+      "Vegetarian",
+      "Pizza"
+    ]
+  },
+  {
+    "Unnamed: 0": 238,
+    "name": "Thali Restaurant",
+    "rating(out of 5)": 4.0,
+    "rating_count": 18.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pizza",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 239,
+    "name": "Little Chef",
+    "rating(out of 5)": 3.4,
+    "rating_count": 23.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Fried Chicken",
+      "Rice",
+      "Salad",
+      "Wraps",
+      "Karahi",
+      "Roll Paratha",
+      "Tandoor",
+      "Beverage",
+      "Chinese",
+      "Pakistani",
+      "Sandwiches",
+      "Seafood",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 240,
+    "name": "Tandoor Restaurant",
+    "rating(out of 5)": 4.1,
+    "rating_count": 1740.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Burgers",
+      "Chinese",
+      "Pizza",
+      "Seafood",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 241,
+    "name": "Meat Head - DHA",
+    "rating(out of 5)": 3.5,
+    "rating_count": 19.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chinese",
+      "Pizza",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 242,
+    "name": "AR Quality Foods",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Rice",
+      "Paratha",
+      "Karahi",
+      "Tandoor",
+      "Beverage",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 243,
+    "name": "Karachi BBQ - DHA",
+    "rating(out of 5)": 4.0,
+    "rating_count": 1162.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Beverage",
+      "Burgers",
+      "Chinese",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 244,
+    "name": "Salto",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 245,
+    "name": "Biryani Express KHAS",
+    "rating(out of 5)": 3.9,
+    "rating_count": 3260.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Rice",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 246,
+    "name": "Red Apple",
+    "rating(out of 5)": 3.8,
+    "rating_count": 88.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Chicken",
+      "Rice",
+      "Soup",
+      "Wraps",
+      "Roll Paratha",
+      "Super Discount",
+      "Beverage",
+      "Burgers",
+      "Chinese",
+      "Fast Food",
+      "Pizza",
+      "Sandwiches",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 247,
+    "name": "Yasir Broast - Dha",
+    "rating(out of 5)": 3.8,
+    "rating_count": 176.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 248,
+    "name": "Dogar Restaurant",
+    "rating(out of 5)": 4.1,
+    "rating_count": 64.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Super Discount",
+      "Fast Food",
+      "Pizza",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 249,
+    "name": "Cottage Grill & Gravy",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Chicken",
+      "Fast Food",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 250,
+    "name": "Dumpukht Kada",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Afghani",
+      "BBQ",
+      "Chicken",
+      "Fast Food",
+      "Pasta",
+      "Rice",
+      "Salad",
+      "Soup",
+      "Juices",
+      "Tea",
+      "Steaks",
+      "Tandoor",
+      "Beverage",
+      "Chinese",
+      "Fast Food",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 251,
+    "name": "MAA G KY PARATHY",
+    "rating(out of 5)": 5.0,
+    "rating_count": 1.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Paratha",
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 252,
+    "name": "Mr Fluffy Fluffs",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Desserts"
+    ]
+  },
+  {
+    "Unnamed: 0": 253,
+    "name": "Kernel's Kitchen",
+    "rating(out of 5)": 3.6,
+    "rating_count": 3.0,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "BBQ",
+      "Ice Cream",
+      "Tea",
+      "Roll Paratha",
+      "Beverage",
+      "Fast Food"
+    ]
+  },
+  {
+    "Unnamed: 0": 254,
+    "name": "Arabic Mandi",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "foodpanda delivery",
+    "food": [
+      "Pakistani"
+    ]
+  },
+  {
+    "Unnamed: 0": 255,
+    "name": "RPS MARKETPLACE TEST",
+    "rating(out of 5)": NaN,
+    "rating_count": NaN,
+    "delivery_fee": "Free delivery",
+    "min_order": "No minimum",
+    "delivery_option": "Restaurant Own delivery",
+    "food": [
+      "Chinese"
+    ]
+  }
+]
